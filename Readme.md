@@ -1,44 +1,69 @@
-# 🌟 Ronn's Personal Portfolio
+<h1 align="center">🌟 Kea Daron's Personal Portfolio</h1>
 
-Welcome to my personal portfolio! This website showcases my projects, skills, and services as a developer.
-
-## 🚀 About Me
-
-Hello! I'm Ronn, a passionate and dedicated Full Stack Developer currently studying at RUPP. I love building modern, responsive, and user-friendly web applications.
-
-## 🛠️ Skills
-
-- HTML, CSS, JavaScript
-- Tailwind CSS, Bootstrap
-- React.js, Next.js
-- PHP, Laravel
-- MySQL, PostgreSQL
-- Git & GitHub
-
-## 📂 Projects
-
-### 1. Portfolio Website  
-A responsive personal website built with HTML, Tailwind CSS, and JavaScript.  
-**Features:** Smooth navigation, project showcase, responsive design.
-
-### 2. Blog Platform  
-A PHP-based blog with CRUD functionality, comment system, and admin panel.
-
-*(Add more projects as needed)*
-
-## 💼 Services
-
-- Frontend Web Development  
-- Backend Web Development  
-- Website Deployment  
-- Responsive Design  
-
-## 📫 Contact Me
-
-- Email: [your.email@example.com]
-- Facebook: [your Facebook profile]
-- GitHub: [https://github.com/yourusername]
+<p align="center">
+  Welcome to my personal portfolio! This website showcases my <strong>projects</strong>, <strong>skills</strong>, and <strong>services</strong> as a Full Stack Developer.
+</p>
 
 ---
 
-Thank you for visiting my portfolio!
+## 🚀 About Me
+
+Hi there! I'm **Kea Daron**, a passionate and dedicated Full Stack Developer currently studying at **RUPP**.  
+I specialize in building modern, responsive, and user-friendly web applications using the latest web technologies.
+
+---
+
+## 🛠️ Skills & Technologies
+
+<div align="center">
+
+| Languages      | Frameworks / Libraries       | Tools & Platforms     |
+|----------------|------------------------------|------------------------|
+| HTML, CSS, JS   | Tailwind CSS, Bootstrap      | Git, GitHub            |
+| PHP, Java       | React.js, Next.js, Spring Boot | VS Code, Postman       |
+| MySQL, PostgreSQL | Laravel (basics)            | Vercel, Netlify        |
+
+</div>
+
+---
+
+## 📂 Featured Projects
+
+### ⚡ Portfolio Website  
+> A responsive personal website built with **HTML**, **Tailwind CSS**, and **JavaScript**.
+
+- ✅ Smooth navigation  
+- ✅ Modern design  
+- ✅ Responsive on all devices  
+
+---
+
+### 📝 Blog Platform  
+> A **PHP-based** blog system with full CRUD functionality.
+
+- ✅ Admin panel for content management  
+- ✅ Comment system  
+- ✅ Clean user interface  
+
+---
+
+## 💼 Services Offered
+
+- ✅ Frontend Web Development  
+- ✅ Backend API Development  
+- ✅ Responsive Web Design  
+- ✅ Hosting & Deployment  
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: [daron3327@gmail.com](mailto:daron3327@gmail.com)  
+- 🌐 Facebook: [facebook.com/kea.daron](https://www.facebook.com/share/18oXHR6M5b/?mibextid=wwXIfr)  
+- 💻 GitHub: [github.com/kea-daron](https://github.com/kea-daron)
+
+---
+
+<p align="center">
+  👨‍💻 Thank you for visiting my portfolio. Let's build something great together!
+</p>
