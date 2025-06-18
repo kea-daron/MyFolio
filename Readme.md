@@ -1,4 +1,4 @@
-<h1 align="center">🌟 Kea Daron's Personal Portfolio</h1>
+<h1 align="center">🌟 My Personal Portfolio</h1>
 
 <p align="center">
   Welcome to my personal portfolio! This website showcases my <strong>projects</strong>, <strong>skills</strong>, and <strong>services</strong> as a Full Stack Developer.
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Hi there! I'm **Kea Daron**, a passionate and dedicated Full Stack Developer currently studying at **RUPP**.  
+Hi there! I'm **Kea Daron**, a passionate and dedicated Full Stack Developer currently studying at **ISTAD**.  
 I specialize in building modern, responsive, and user-friendly web applications using the latest web technologies.
 
 ---
@@ -38,14 +38,6 @@ I specialize in building modern, responsive, and user-friendly web applications 
 
 ---
 
-### 📝 Blog Platform  
-> A **PHP-based** blog system with full CRUD functionality.
-
-- ✅ Admin panel for content management  
-- ✅ Comment system  
-- ✅ Clean user interface  
-
----
 
 ## 💼 Services Offered
 
