@@ -715,6 +715,7 @@ section,
 }
 
 .hero .hero-visual .profile-container {
+  bottom: 80px;
   position: relative;
   width: 400px;
   height: 400px;
@@ -722,19 +723,20 @@ section,
 
 .hero .hero-visual .profile-container .profile-background {
   position: absolute;
-  top: 20px;
+  top: 30px;
   left: 20px;
   width: 100%;
-  height: 100%;
+  height: 137%;
   background: linear-gradient(135deg, var(--accent-color), color-mix(in srgb, var(--accent-color), var(--heading-color) 30%));
   border-radius: 30px;
   z-index: 1;
 }
 
 .hero .hero-visual .profile-container .profile-image {
+  top: 0px;
   position: relative;
   width: 100%;
-  height: 100%;
+  height: 140%;
   object-fit: cover;
   border-radius: 30px;
   z-index: 2;
@@ -757,7 +759,7 @@ section,
 }
 
 .hero .hero-visual .profile-container .floating-elements .floating-icon.icon-1 {
-  top: -10px;
+  top: 1-0px;
   right: 50px;
   animation-delay: 0s;
 }
